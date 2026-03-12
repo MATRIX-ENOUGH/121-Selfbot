@@ -10,11 +10,12 @@ git clone https://github.com/NotNishanXD/121-Selfbot.git
 ```bash
 cd 121-Selfbot
 ```
-3. Run:
+3. Put your token and owner ID in **config.json**
+4. Run:
 ```bash
 npm install
 ```
-4. Run the selfbot and you're done!:
+5. Run the selfbot and you're done!:
 ```bash
 node index.js
 ```
