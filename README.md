@@ -14,7 +14,7 @@ cd 121-Selfbot
 ```bash
 npm install
 ```
-4. Run this and you're done!:
+4. Run the selfbot and you're done!:
 ```bash
 node index.js
 ```
