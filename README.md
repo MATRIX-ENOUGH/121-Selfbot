@@ -19,3 +19,7 @@ npm install
 ```bash
 node index.js
 ```
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1118496761435136040?bg=000000&borderRadius=20px&idleMessage=Sleeping...&theme=dark&showDisplayName=true"/>
+</p>
